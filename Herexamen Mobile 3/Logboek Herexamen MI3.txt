@@ -1,0 +1,38 @@
+Logboek MI3 Herexamen
+
+Week 24-06-2019 (45 uur)
+- Verbetering Native App
+	* Thema kleur aanpassen
+	* Achtergrond aanpassen
+	* Zoekfunctie verbeteren
+- Opmaak Hybride App
+- Research Firebase Web
+- Login toepassen
+- Signup toepassen
+- Logout toepassen
+- Recepten upload fucntie toepassen
+- Foto kunnen toevoegen
+- Database compatibel maken met project MI4
+- Recepten tonen
+- Userinfo pagina aanmaken
+- Opmaak verbeteren
+
+Week 01-07-2019 (27 uur)
+- Research Firebase Web
+- Recepten filteren (zoek functie)
+- Verschillende categorieën aanmaken
+- Commentaar kunnen geven
+- Commentaar kunnen tonen
+- Fixen van problemen
+- Opmaak verbeteren
+
+Week 12-08-2019 (12 uur)
+- Research Firebase Web
+- Opmaak verbeteren
+- Documentatie maken
+- Presentatie maken
+- Presentatie voorbereiden
+- Password reset functie toepassen
+- Code Verbeteren
+
+
